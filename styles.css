@@ -1,0 +1,28 @@
+* {
+    color: rgb(19, 14, 14);
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+body {
+    background-color:darkseagreen;
+    font-size: large;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+.recipes {
+    list-style: url(./images/hat-chef\ \(1\).png);
+    font-weight: 700;
+}
+
+.recipes a {
+    text-decoration: none;
+}
+
+.container {
+    width: 50%;
+    background-color:mintcream;
+}
