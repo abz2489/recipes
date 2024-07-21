@@ -5,13 +5,14 @@
 
 body {
     background-color:darkseagreen;
-    font-size: large;
 }
 
 h1 {
+    width: 50%;
     background-color: aliceblue;
     text-align: center;
     font-size: 40px;
+    margin: 20px auto;
 }
 
 img {
@@ -30,6 +31,21 @@ img {
 }
 
 .container {
-    width: 50%;
     background-color:mintcream;
+    padding: 1px 0 5px 10px;
+}
+
+.description-container {
+    width: 60%;
+    margin: 20px auto;
+}
+
+.ingredients-container {
+    width: 18%;
+    margin-left: 296px;
+}
+
+.instructions-container {
+    width: 60%;
+    margin: auto;
 }
