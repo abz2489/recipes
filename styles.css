@@ -1,6 +1,6 @@
 * {
     color: rgb(19, 14, 14);
-    font-family:Georgia, 'Times New Roman', Times, serif
+    font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
 body {
@@ -35,17 +35,21 @@ img {
     padding: 1px 0 5px 10px;
 }
 
-.description-container {
+.description-container,
+.instructions-container {
     width: 60%;
+    padding-right: 4px;
+}
+
+.description-container {
     margin: 20px auto;
 }
 
 .ingredients-container {
     width: 18%;
-    margin-left: 296px;
+    margin-left: 293.5px;
 }
 
 .instructions-container {
-    width: 60%;
     margin: auto;
 }
