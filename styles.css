@@ -9,8 +9,15 @@ body {
 }
 
 h1 {
+    background-color: aliceblue;
     text-align: center;
     font-size: 40px;
+}
+
+img {
+    display: block;
+    width: 450px;
+    margin: auto;
 }
 
 .recipes {
